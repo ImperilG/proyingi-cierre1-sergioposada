@@ -6,7 +6,7 @@
 
 **Autor:** [Tu nombre]
 **Fecha:** [ ]
-**Ideas analizadas:** ver [[ideas-proyecto.md]] o [ideas-proyecto.md](ideas-proyecto.md.md)
+**Ideas analizadas:** ver [[ideas-proyecto]] o [ideas-proyecto](ideas-proyecto.md)
 
 ---
 
