@@ -4,7 +4,7 @@
 > "Instrucción:". Las tres ideas son tuyas, no las de tu equipo. En la siguiente sesión el
 > equipo decidirá con cuál se queda.
 
-**Autor:** [Tu nombre]
+**Autor:** [Sergio Eduardo Posada Montiel]
 **Fecha:** [ ]
 
 ---
