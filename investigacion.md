@@ -4,9 +4,9 @@
 > "Instrucción:". Todos los enlaces deben abrir. Un enlace roto o inventado anula el
 > criterio correspondiente.
 
-**Autor:** [Tu nombre]
-**Fecha:** [ ]
-**Ideas analizadas:** ver [[ideas-proyecto]] o [ideas-proyecto](ideas-proyecto.md)
+**Autor:** [Sergio Eduardo Posada Montiel]
+**Fecha:** [Domingo 20 de septiembre, 2026 ]
+**Ideas analizadas:** ver [ideas-proyecto](ideas-proyecto.md)
 
 ---
 

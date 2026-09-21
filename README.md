@@ -4,7 +4,7 @@
 **Carrera:** Ingeniería en Sistemas Computacionales
 **Materia:** Proyecto de Ingeniería I (LIIB2101) — Otoño 2026
 **Profesor:** Mtro. Rafael Pérez Aguirre
-**Equipo:** [ImperilG]
+**Equipo:** [Crew]
 
 ---
 
