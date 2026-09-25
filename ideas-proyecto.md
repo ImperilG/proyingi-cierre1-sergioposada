@@ -29,6 +29,8 @@ Cómo funcionaría.
 - Qué hace con eso (actuador, aviso, pantalla): [Tendrá una pequeña bocina que se accionará y empezará a emitir ruido cuando el bote esté lleno, haciéndolo algo molesto y obligando a la gente, o personal de limpieza vaciarlo, además no tendrán que estar buscando qué botes tienen que vaciar y se darán cuenta más rápidamente.]    
 - Qué pieza habría que fabricar: [El bote de basura y programar el sensor.]
 
+**Fuente :** Patel, S. (2024, 14 de noviembre). *IoT based smart bin*. Circuit Digest. https://circuitdigest.com/microcontroller-projects/iot-based-smart-bin
+
 ---
 
 ## Idea 2: [Platos alimentadores]
@@ -44,6 +46,8 @@ Cómo funcionaría.
 - Qué hace con eso (actuador, aviso, pantalla): [Mantendrá a los animales más saludables y controlados, ya que podrían empezar a tener más confianza.]  
 - Qué pieza habría que fabricar: [El plato de comida con un mecanismo que apertura.]
 
+**Fuente:** CGTN. (2020, 14 de octubre). *Chinese social media debates first auto-feeder for strays*. https://news.cgtn.com/news/2020-10-14/Chinese-social-media-debates-first-auto-feeder-for-strays-UzMDd2QaC4/index.html
+
 ---
 
 ## Idea 3: [Sin garrafones vacios]
@@ -58,6 +62,8 @@ Cómo funcionaría.
 - Qué mide o detecta (sensor): [Detectaría cuánta agua queda en el garrafón ya sea con el peso o directamente con una cámara.]  
 - Qué hace con eso (actuador, aviso, pantalla): [Cuando se acabe o esté ya casi vacío mandaría un mensaje a los responsables de rellenar con garrafones para que vayan a poner uno nuevo.]  
 - Qué pieza habría que fabricar: [Una base para el garrafón con un compartimento oculto para el sistema de detección.]
+
+**Fuente:** López Cruz, A. I. (2023). *Sistema para automatizar la distribución de agua en los depósitos del hogar incorporando el paradigma de internet de las cosas* [Tesis de licenciatura, Universidad Nacional Autónoma de México]. Repositorio Institucional UNAM. https://ru.dgb.unam.mx/bitstream/20.500.14330/TES01000846893/3/0846893.pdf
 
 ---
 
@@ -88,5 +94,5 @@ Qué todavía no sé. [Aún no sé si haya un personal asignado a poner garrafon
 ## Declaración de uso de IA
 
 - Herramienta utilizada: [Gemini 3.1 pro]  
-- Qué le pedí: [Le pedí un poco de ayuda para concretar mejor mi tercera idea, ademas también le pedi ayuda con la ortografía]  
+- Qué le pedí: [Le pedí un poco de ayuda para concretar mejor mi tercera idea, agregar los links en formato apa y ademas también le pedi ayuda con la ortografía]  
 - Qué modifiqué o rechacé de su respuesta, y por qué: [Modifiqué el cómo avisar que se acabó el agua, ya que yo tenía pensado que emita un sonido o algo por el estilo pero podría ser algo molesto y realmente no solucionaría el problema. También modifique la ortografía de todo lo que había escrito a mano]
