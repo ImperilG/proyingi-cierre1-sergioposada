@@ -3,15 +3,15 @@
 
 ## 1. Espesor  MDF
 
-Medido con vernier: Aun no lo mido: **mm**
+Medido con vernier: 2.50 **mm**
 
 ## 2. Parámetros
 
 | Parámetro | Expresión    | Valor   | Para qué sirve                            |
 | --------- | ------------ | ------- | ----------------------------------------- |
-| `espesor` | 3 mm         | 3.00 mm | Grosor del MDF y profundidad de los dedos |
-| `kerf`    | 0.2 mm       | 0.20 mm | Es el material que se lleva al laser      |
-| `ranura`  | espesor-kerf | 2.80 mm | Medida de las ranuras                     |
+| `espesor` | 2.50 mm      | 3.00 mm | Grosor del MDF y profundidad de los dedos |
+| `kerf`    | 0.1.55 mm    | 0.20 mm | Es el material que se lleva al laser      |
+| `ranura`  | espesor-kerf | 2.35 mm | Medida de las ranuras                     |
 
 ## 3. Lo más difícil
 
