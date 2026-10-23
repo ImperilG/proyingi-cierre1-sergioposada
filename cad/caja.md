@@ -7,11 +7,11 @@ Medido con vernier: 2.50 **mm**
 
 ## 2. Parámetros
 
-| Parámetro | Expresión    | Valor   | Para qué sirve                            |
-| --------- | ------------ | ------- | ----------------------------------------- |
-| `espesor` | 2.50 mm      | 3.00 mm | Grosor del MDF y profundidad de los dedos |
-| `kerf`    | 0.1.55 mm    | 0.20 mm | Es el material que se lleva al laser      |
-| `ranura`  | espesor-kerf | 2.35 mm | Medida de las ranuras                     |
+| Parámetro | Expresión    | Valor    | Para qué sirve                            |
+| --------- | ------------ | -------- | ----------------------------------------- |
+| `espesor` | 2.50 mm      | 2.50 mm  | Grosor del MDF y profundidad de los dedos |
+| `kerf`    | 0.155 mm     | 0.155 mm | Es el material que se lleva al laser      |
+| `ranura`  | espesor-kerf | 2.35 mm  | Medida de las ranuras                     |
 
 ## 3. Lo más difícil
 
